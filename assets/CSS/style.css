@@ -95,3 +95,16 @@ a.imageLink{
 	border-top: solid thick #444;
 	font-size: 10px;
 	}
+
+.overlayText{
+	border-bottom: 0;
+	background: white;
+	text-align: center;
+	position: absolute;
+	bottom: 20px;
+	padding: 15px;
+	width: 255px;
+	line-height: 30px;
+	font-weight: 300;
+	padding-left: 30px
+}
